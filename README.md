@@ -2,6 +2,7 @@
 Para ejecutar el código se deberá importar mediante el IDE de Netbeans una vez descargada la carpeta
 
 Explicación de nodos:
+
 1 (Círculo inicial): Inicio e inicialización de constantes (CASILLAS, ALIENS, etc.) y variables de juego.
 
 2 (Bifurcación): Decisión del bucle principal while (!fin).
